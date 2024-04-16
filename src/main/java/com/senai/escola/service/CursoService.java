@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.senai.escola.exception.RegistroNaoExistenteException;
-import com.senai.escola.model.Aluno;
 import com.senai.escola.model.Curso;
 import com.senai.escola.repository.CursoRepository;
 
